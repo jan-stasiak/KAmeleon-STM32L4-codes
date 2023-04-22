@@ -10,3 +10,5 @@ The repository contains several short programmes addressing the following topics
 - operation of a segmented screen with registers
 - use of clocks
 - data transmission using the LPUART interface
+
+IDE: [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
